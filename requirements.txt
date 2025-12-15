@@ -1,0 +1,11 @@
+
+Contents:
+
+```txt
+numpy
+opencv-python
+scikit-image
+scikit-learn
+matplotlib
+joblib
+tqdm
