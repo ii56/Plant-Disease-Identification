@@ -62,3 +62,6 @@ PlantVillage_split/
 # Logs
 # ===============================
 *.log
+# Trained models
+*.pkl
+
